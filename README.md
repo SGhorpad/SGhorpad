@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center" style="font-size:18px; font-weight:600; color:#333;">
-  MERN Stack Developer | Java Enthusiast | Lifelong Learner
+  MERN Stack Developer | Lifelong Learner
 </p>
 
 <!-- Social Links -->
