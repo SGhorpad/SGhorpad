@@ -9,7 +9,7 @@
 
 <!-- Social Links -->
 <p align="center">
-  <a href="www.linkedin.com/in/sakshi-ghorpade-620b13220" style="margin: 0 10px;">
+  <a href="https://www.linkedin.com/in/sakshi-ghorpade-620b13220?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" style="margin: 0 10px;">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/SGhorpad" target="_blank" rel="noopener" style="margin: 0 10px;">
