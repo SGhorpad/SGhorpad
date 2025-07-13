@@ -59,21 +59,6 @@
 
 <hr style="border: 1px solid #eee; margin: 30px 0;" />
 
----
-
-### 🌟 Tech Activity & Learning
-
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-ES6-yellow?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/React-18-blue?style=for-the-badge&logo=react&logoColor=white" alt="React" />
-  <img src="https://img.shields.io/badge/MongoDB-4.4-green?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Node.js-16.13-green?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Java-17-orange?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-</p>
-
-<p align="center" style="font-style: italic; color: #666;">
-  Currently diving deeper into backend APIs and improving frontend UX with React.
-</p>
 
 ---
 
