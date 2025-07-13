@@ -59,13 +59,33 @@
 
 <hr style="border: 1px solid #eee; margin: 30px 0;" />
 
-<!-- GitHub Stats -->
-<h2 style="color:#4b6cb7;" align="center">GitHub Stats</h2>
+---
+
+### 🌟 Tech Activity & Learning
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SGhorpad&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://img.shields.io/badge/JavaScript-ES6-yellow?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-18-blue?style=for-the-badge&logo=react&logoColor=white" alt="React" />
+  <img src="https://img.shields.io/badge/MongoDB-4.4-green?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Node.js-16.13-green?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Java-17-orange?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
 </p>
 
-<hr style="border: 1px solid #eee; margin: 30px 0;" />
+<p align="center" style="font-style: italic; color: #666;">
+  Currently diving deeper into backend APIs and improving frontend UX with React.
+</p>
+
+---
+
+### 🎯 Fun Facts
+
+- 💡 I love turning ideas into code.  
+- 🎨 I enjoy expressing creativity through coding and design.  
+- ☕ Coffee keeps me going during long coding sessions.  
+- 📚 Always eager to learn new programming languages and tools.  
+- 🧩 Solving coding challenges keeps me sharp.
+
+
 
 <!-- Quote -->
 <p align="center" style="font-style: italic; color: #555;">
