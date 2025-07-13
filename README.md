@@ -20,7 +20,7 @@
   </a>
 </p>
 
-<hr style="border: 1px solid #eee; margin: 30px 0;" />
+---
 
 <!-- About Me Section -->
 <h2 style="color:#4b6cb7;">About Me</h2>
@@ -31,7 +31,7 @@
   <li>☕ Coffee lover and lifelong learner</li>
 </ul>
 
-<hr style="border: 1px solid #eee; margin: 30px 0;" />
+---
 
 <!-- Skills Section -->
 <h2 style="color:#4b6cb7;">Skills</h2>
@@ -57,9 +57,6 @@
   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
-<hr style="border: 1px solid #eee; margin: 30px 0;" />
-
-
 ---
 
 ### 🎯 Fun Facts
@@ -70,9 +67,8 @@
 - 📚 Always eager to learn new programming languages and tools.  
 - 🧩 Solving coding challenges keeps me sharp.
 
+---
 
-
-<!-- Quote -->
-<p align="center" style="font-style: italic; color: #555;">
-  “Strive not to be a success, but rather to be of value.” – Albert Einstein
+<p align="center" style="font-style: italic; color: #555; font-size: 16px; margin-top: 40px;">
+  “Strive not to be a success, but rather to be of value.”<br>– Albert Einstein
 </p>
